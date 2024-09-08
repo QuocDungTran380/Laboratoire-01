@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kevintran\\Downloads\\Laboratoire 01\\Prototype 1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kevintran\\Downloads\\Laboratoire 01\\Prototype 1\\Assets\\Old Pickup Truck\\Scripts\\CarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Old Pickup Truck\\Scripts\\CarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kevintran\\Downloads\\Laboratoire 01\\Prototype 1\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\kevintran\\Downloads\\Laboratoire 01\\Prototype 1\\Assets\\Old Pickup Truck\\Scripts\\CarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Old Pickup Truck\\Scripts\\CarController.cs",
+              "ToolTip": "C:\\Users\\kevintran\\Downloads\\Laboratoire 01\\Prototype 1\\Assets\\Old Pickup Truck\\Scripts\\CarController.cs",
+              "RelativeToolTip": "Assets\\Old Pickup Truck\\Scripts\\CarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:23:16.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\kevintran\\Downloads\\Laboratoire 01\\Prototype 1\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T03:37:24.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T03:37:24.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\kevintran\\Downloads\\Laboratoire 01\\Prototype 1\\Assets\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
@@ -59,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FollowPlayer.cs",
               "DocumentMoniker": "C:\\Users\\kevintran\\Downloads\\Laboratoire 01\\Prototype 1\\Assets\\FollowPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\FollowPlayer.cs",

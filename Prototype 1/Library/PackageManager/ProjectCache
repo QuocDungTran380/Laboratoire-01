@@ -20,7 +20,7 @@ m_EmbeddedPackageManifests:
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/kevintran/Downloads/Laboratoire 01/Prototype 1/Packages
-m_EditorVersion: 2022.3.44f1 (c3ae09b9f03c)
+m_EditorVersion: 2022.3.45f1 (a13dfa44d684)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@2.4.4
   testable: 0
@@ -117,8 +117,10 @@ m_ResolvedPackages:
     - 2.3.1
     - 2.4.3
     - 2.4.4
+    - 2.5.1
     compatible:
     - 2.4.4
+    - 2.5.1
     recommended: 2.4.4
     deprecated: []
   dependencies: []
@@ -3512,4 +3514,4 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
-m_BuiltInPackagesHash: 74622aa8bed6a1f01bcf171663fedac871fbad9b
+m_BuiltInPackagesHash: 4bf036992e66df8542a0e2a381a825a4a2452a54
